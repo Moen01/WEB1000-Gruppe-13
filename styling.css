@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    text-align: center;
+    color: black;
+    background-color: rgb(17, 119, 119);
+    padding: 0%;
+    margin-top: 0px;
+}
+
+.headerrgb{
+    text-align: right 30%;
+    color: black;
+    background-color: rgb(17, 119, 119);
+    padding: 0%;
+    margin-top: 0px;
+}
+
+.headerhvit{
+    text-align: center;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    margin-top: 0px;
+}
+
+div.nyside{
+    background-color: rgb(17, 119, 119);
+    position: sticky;
+    top: 0;
+    padding: 2%;
+}
+
+.nyside a{
+    text-size-adjust: 100px;
+    text-align: center;
+    text-decoration: none;
+    color:  rgb(0, 0, 0);
+    padding: 20px;
+    border-radius: 25px;
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-right: 65px;
+}
+
+.nyside a:hover{
+    color: rgb(102, 255, 0);
+}
